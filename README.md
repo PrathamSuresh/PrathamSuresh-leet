@@ -19,6 +19,7 @@ Solutions for my ref
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@ Solutions for my ref
 | [0074-search-a-2d-matrix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0704-binary-search) |
