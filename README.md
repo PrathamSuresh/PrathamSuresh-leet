@@ -6,6 +6,7 @@ Solutions for my ref
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@ Solutions for my ref
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -55,4 +57,8 @@ Solutions for my ref
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
