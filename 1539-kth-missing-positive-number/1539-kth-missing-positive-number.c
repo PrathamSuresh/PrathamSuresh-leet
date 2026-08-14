@@ -7,11 +7,8 @@ int findKthPositive(int* arr, int arrSize, int k) {
         if(ans>=k){
             r=k+i;
             return r;
-        }else if(ans<k){
-            final=k-ans;
-            r=arr[i]+final;
         }
     }
-    return r;
+    return k+arrSize;
 
 }
