@@ -7,6 +7,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0048-rotate-image) |
@@ -28,6 +29,7 @@ Solutions for my ref
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0074-search-a-2d-matrix) |
