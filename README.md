@@ -7,6 +7,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0074-search-a-2d-matrix) |
@@ -33,6 +34,7 @@ Solutions for my ref
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
@@ -77,4 +79,8 @@ Solutions for my ref
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
