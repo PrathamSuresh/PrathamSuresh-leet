@@ -6,6 +6,7 @@ Solutions for my ref
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0075-sort-colors) |
@@ -41,6 +42,7 @@ Solutions for my ref
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2149-rearrange-array-elements-by-sign) |
