@@ -7,6 +7,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0485-max-consecutive-ones) |
@@ -36,4 +37,8 @@ Solutions for my ref
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
