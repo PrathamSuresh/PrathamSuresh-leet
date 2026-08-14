@@ -3,11 +3,12 @@ int findKthPositive(int* arr, int arrSize, int k) {
     int final=0;
     int r=0;
     for(int i=0;i<arrSize;i++){
-        ans=arr[i]-(i+1);
+        ans=arr[i]-(i+1); 
         if(ans>=k){
             r=k+i;
             return r;
         }
+       
     }
     return k+arrSize;
 
