@@ -101,4 +101,16 @@ Solutions for my ref
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
