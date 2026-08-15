@@ -66,6 +66,7 @@ Solutions for my ref
 | ------- |
 | [0031-next-permutation](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -104,6 +105,7 @@ Solutions for my ref
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
