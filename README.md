@@ -6,6 +6,7 @@ Solutions for my ref
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -106,6 +107,7 @@ Solutions for my ref
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1903-largest-odd-number-in-string) |
@@ -121,4 +123,8 @@ Solutions for my ref
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
