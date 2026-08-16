@@ -8,14 +8,10 @@ public:
             int n = c - '0';
             if (n % 2 == 0) {
                 even += to_string(n);
-            } else {
+            } else{
                 odd+=to_string(n);
-                if (!even.empty()) {
-                    ans+= even + odd;
-                    even="";
-                } else {
-                    ans += odd;
-                }
+                ans+=even+odd;
+                even="";
                 odd="";
             }
         }
