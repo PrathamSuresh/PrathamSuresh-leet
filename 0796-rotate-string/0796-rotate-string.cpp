@@ -4,13 +4,9 @@ public:
         if(s.size()!=goal.size()){
             return false;
         }
-        for(int i=0;i<s.size();i++){
-            char first=s[0];
-            s.erase(0,1);
-            s+=first;
-            if(s==goal){
-                return true;
-            }
+        string d=s+s;
+        if(d.find(goal)!=string::npos){
+            return true;
         }
         return false;
     }
