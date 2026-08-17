@@ -78,6 +78,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Solutions for my ref
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Solutions for my ref
 | [0014-longest-common-prefix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1903-largest-odd-number-in-string) |
