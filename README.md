@@ -65,6 +65,7 @@ Solutions for my ref
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
@@ -91,6 +92,7 @@ Solutions for my ref
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -114,6 +116,7 @@ Solutions for my ref
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
@@ -158,4 +161,8 @@ Solutions for my ref
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
