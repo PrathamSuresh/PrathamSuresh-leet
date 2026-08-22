@@ -70,6 +70,7 @@ Solutions for my ref
 | [0075-sort-colors](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -173,4 +174,5 @@ Solutions for my ref
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
