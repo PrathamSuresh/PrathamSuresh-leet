@@ -9,14 +9,19 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        vector<ListNode*> vec;
-        ListNode* temp=head;
-        while(temp!=nullptr){
-            if(find(vec.begin(),vec.end(),temp)!=vec.end()){
-                return temp;
+        ListNode *slow=head;
+        ListNode *fast=head;
+        while(fast!=nullptr && fast->next!=nullptr){
+            slow=slow->next;
+            fast=fast->next->next;
+            if(slow==fast){
+                slow=head;
+                while(fast!=slow){
+                    slow=slow->next;
+                    fast=fast->next;
+                }
+                return slow;
             }
-            vec.push_back(temp);
-            temp=temp->next;
         }
         return nullptr;
     }
