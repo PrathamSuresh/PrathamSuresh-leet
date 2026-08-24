@@ -75,6 +75,7 @@ Solutions for my ref
 | [0234-palindrome-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -188,6 +189,7 @@ Solutions for my ref
 | [0237-delete-node-in-a-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
