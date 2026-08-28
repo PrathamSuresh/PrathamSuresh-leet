@@ -151,6 +151,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
@@ -224,6 +225,7 @@ Solutions for my ref
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
