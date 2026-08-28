@@ -137,6 +137,7 @@ Solutions for my ref
 | [0008-string-to-integer-atoi](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
@@ -149,6 +150,7 @@ Solutions for my ref
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
@@ -156,6 +158,7 @@ Solutions for my ref
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
