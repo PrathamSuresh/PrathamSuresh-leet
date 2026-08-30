@@ -25,6 +25,7 @@ Solutions for my ref
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0875-koko-eating-bananas) |
@@ -122,6 +123,7 @@ Solutions for my ref
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -154,6 +156,7 @@ Solutions for my ref
 | [0155-min-stack](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -231,4 +234,8 @@ Solutions for my ref
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
