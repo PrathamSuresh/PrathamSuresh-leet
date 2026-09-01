@@ -149,6 +149,7 @@ Solutions for my ref
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
@@ -162,6 +163,7 @@ Solutions for my ref
 | [0155-min-stack](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0735-asteroid-collision) |
@@ -179,6 +181,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -247,6 +250,7 @@ Solutions for my ref
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0907-sum-of-subarray-minimums) |
