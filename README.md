@@ -36,6 +36,7 @@ Solutions for my ref
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1539-kth-missing-positive-number) |
+| [2104-sum-of-subarray-ranges](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -167,6 +168,7 @@ Solutions for my ref
 | [0907-sum-of-subarray-minimums](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -248,4 +250,5 @@ Solutions for my ref
 | [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
