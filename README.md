@@ -121,6 +121,7 @@ Solutions for my ref
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0141-linked-list-cycle) |
@@ -141,6 +142,7 @@ Solutions for my ref
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0013-roman-to-integer) |
@@ -255,4 +257,8 @@ Solutions for my ref
 | [0503-next-greater-element-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2104-sum-of-subarray-ranges) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
