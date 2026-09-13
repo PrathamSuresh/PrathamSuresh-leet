@@ -132,6 +132,7 @@ Solutions for my ref
 | [0160-intersection-of-two-linked-lists](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0904-fruit-into-baskets) |
@@ -156,6 +157,7 @@ Solutions for my ref
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1021-remove-outermost-parentheses) |
@@ -265,6 +267,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
