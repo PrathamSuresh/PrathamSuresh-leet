@@ -36,6 +36,7 @@ Solutions for my ref
 | [0930-binary-subarrays-with-sum](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1539-kth-missing-positive-number) |
@@ -138,6 +139,7 @@ Solutions for my ref
 | [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -145,6 +147,7 @@ Solutions for my ref
 | [0002-add-two-numbers](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0048-rotate-image) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -273,9 +276,11 @@ Solutions for my ref
 | [0904-fruit-into-baskets](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
