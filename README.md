@@ -6,6 +6,7 @@ Solutions for my ref
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0031-next-permutation) |
@@ -127,6 +128,7 @@ Solutions for my ref
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0073-set-matrix-zeroes) |
