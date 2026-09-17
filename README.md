@@ -25,6 +25,7 @@ Solutions for my ref
 | [0136-single-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0485-max-consecutive-ones) |
@@ -142,6 +143,7 @@ Solutions for my ref
 | [0142-linked-list-cycle-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0451-sort-characters-by-frequency) |
@@ -283,6 +285,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0930-binary-subarrays-with-sum) |
