@@ -28,6 +28,7 @@ Solutions for my ref
 | [0219-contains-duplicate-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
+| [0456-132-pattern](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0503-next-greater-element-ii) |
@@ -59,6 +60,7 @@ Solutions for my ref
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0456-132-pattern](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0875-koko-eating-bananas) |
@@ -193,6 +195,7 @@ Solutions for my ref
 | [0232-implement-queue-using-stacks](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0735-asteroid-collision) |
@@ -281,6 +284,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0907-sum-of-subarray-minimums) |
@@ -305,4 +309,8 @@ Solutions for my ref
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
