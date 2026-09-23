@@ -27,6 +27,7 @@ Solutions for my ref
 | [0162-find-peak-element](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ Solutions for my ref
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0704-binary-search) |
@@ -106,6 +108,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +117,7 @@ Solutions for my ref
 | [0075-sort-colors](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0451-sort-characters-by-frequency) |
 ## Quicksort
 |  |
@@ -148,6 +152,7 @@ Solutions for my ref
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0496-next-greater-element-i) |
@@ -164,6 +169,7 @@ Solutions for my ref
 | [0013-roman-to-integer](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1903-largest-odd-number-in-string) |
 ## String
