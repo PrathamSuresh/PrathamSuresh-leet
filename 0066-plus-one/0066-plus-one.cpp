@@ -7,7 +7,7 @@ public:
             i--;
         }
         if(i>=0){
-            digits[i]=digits[i]+1;
+            digits[i]++;
         }else{
             digits.insert(digits.begin(),1);
         }
