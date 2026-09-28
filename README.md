@@ -114,6 +114,7 @@ Solutions for my ref
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0268-missing-number) |
 ## Sorting
@@ -146,6 +147,7 @@ Solutions for my ref
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -179,6 +181,7 @@ Solutions for my ref
 | [0048-rotate-image](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1903-largest-odd-number-in-string) |
@@ -193,6 +196,7 @@ Solutions for my ref
 | [0020-valid-parentheses](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
