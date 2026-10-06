@@ -192,6 +192,7 @@ Solutions for my ref
 | [0066-plus-one](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/1903-largest-odd-number-in-string) |
@@ -209,6 +210,7 @@ Solutions for my ref
 | [0067-add-binary](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/PrathamSuresh/PrathamSuresh-leet/tree/master/0402-remove-k-digits) |
